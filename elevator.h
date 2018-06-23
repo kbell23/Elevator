@@ -1,6 +1,3 @@
-/* Change these experiment settings to try different scenarios. Parameters can 
-	 also be passed in using gcc flags, e.g. -DELEVATORS=5 */
-
 #ifndef MAX_CAPACITY
 #define MAX_CAPACITY 1
 #endif
@@ -21,7 +18,7 @@
 #define TRIPS_PER_PASSENGER 1
 #endif
 
-// these settings affect only the 'looks', will be tested at log level 1
+
 #ifndef DELAY
 #define DELAY 10000
 #endif 
