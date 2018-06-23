@@ -1,4 +1,4 @@
-#include "hw6.h"
+#include "elevator.h"
 #include <stdio.h>
 #include <pthread.h>
 #include <time.h>
